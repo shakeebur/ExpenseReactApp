@@ -12,7 +12,7 @@ const localStorageTransactions = JSON.parse(localStorage.getItem('transactions')
 
 
 let transactions = localStorage.getItem('transactions') !== null ? localStorageTransactions: [];
-// add transaction
+// add transaction ...
 function addTrans(e){
   e.preventDefault();
   if (text.value.trim() === '' || amount.value.trim() ===''){
@@ -33,7 +33,7 @@ function addTrans(e){
   }
 
 }
-//generate rand id
+//generate rand id/
 function generateID(){
   return Math.floor(Math.random() * 100000000);
 }
