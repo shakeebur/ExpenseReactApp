@@ -1,4 +1,4 @@
-CIC 434 project 1 - Group 8
+CIS 434 project 1 - Group 8
 Make sure you are in GR8-APP directory and run:
 
 npm install
@@ -11,3 +11,4 @@ npm start
 
 This App has the functionality to delete transactions, save transactions (using local storage) and displays alerts for exceptions.
 ~Fin~
+#
