@@ -29,7 +29,7 @@ To use the application, simply open it on your mobile device and start entering 
 ## Support
 If you encounter any issues while using the ExpenseReactApp, please submit a GitHub issue or contact one of the contributors directly.
 
-## License
+###### License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 
