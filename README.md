@@ -20,7 +20,7 @@ Simple display
 To install the application, clone the repository and run the following commands:
 
 `npm install`
-### npm start
+`npm start`
 This will launch the application in a development environment on your local machine.
 
 ## Usage
