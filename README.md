@@ -1,6 +1,7 @@
 # ExpenseReactApp
 
 ExpenseReactApp is a mobile application developed using React Native as part of a university project for a software programming course. The application allows users to enter expenses and income, which are displayed on the main page. The application also includes a transaction history tab where users can view past transactions, and delete transactions as needed.
+<img src="https://i.imgur.com/GhjO9hy.png" alt="Alt Text" width="400" height="200">
 
 ## Contributors
 rafiasajjad
