@@ -19,9 +19,9 @@ Simple display
 ## Installation
 To install the application, clone the repository and run the following commands:
 
-### npm install
+`npm install`
 ### npm start
-### This will launch the application in a development environment on your local machine.
+This will launch the application in a development environment on your local machine.
 
 ## Usage
 To use the application, simply open it on your mobile device and start entering expenses and income. The main page will display your current transactions, and the transaction history tab will show all past transactions. To delete a transaction, simply swipe left on the transaction in the transaction history tab and press the delete button.
