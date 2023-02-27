@@ -10,13 +10,13 @@ Hamzas61
 iamkenee
 
 ## Features
-Add expenses and income
-View transactions on the main page
-Delete transactions
-Save transaction data in local storage
-Alert message when users leave fields when clicking add transaction button
-Uses complex JavaScript array functions
-Simple display
+- Add expenses and income
+- View transactions on the main page
+- Delete transactions
+- Save transaction data in local storage
+- Alert message when users leave fields when clicking add transaction button
+- Uses complex JavaScript array functions
+- Simple display
 
 ## Installation
 To install the application, clone the repository and run the following commands:
